@@ -49,7 +49,12 @@ O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ati
 
 ## 📷 Demonstração
 
-> 🧪 **Em breve**: GIF mostrando o comportamento ao abrir duas abas do TOTVS Web.
+> 🧪 **Exemplo**: Mostrando o comportamento ao abrir duas abas do TOTVS Web.
+
+![image](https://github.com/user-attachments/assets/85ca199c-eb28-4e35-8b92-210c2481d857)
+![image](https://github.com/user-attachments/assets/b52631a3-e0fd-4d74-9b14-770b38ad1238)
+![image](https://github.com/user-attachments/assets/ea40730d-5f9c-4d9e-b39c-2604caaf619e)
+![image](https://github.com/user-attachments/assets/dadd3fc5-9a0c-43cf-a36d-6b0a60110cf8)
 
 ---
 
