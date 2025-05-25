@@ -23,7 +23,7 @@ O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ati
 
 1. Toda vez que uma aba é aberta, ela registra sua identificação no `localStorage`.
 2. Caso outra aba seja aberta, o script compara os IDs.
-3. Se detectar uma aba diferente da original, **exibe um aviso e desativa automaticamente a aba mais nova**, redirecionando-a após 10 segundos.
+3. Se detectar uma aba diferente da original, **exibe um aviso e desativa automaticamente a aba mais antiga**, redirecionando-a após 10 segundos.
 
 ---
 
