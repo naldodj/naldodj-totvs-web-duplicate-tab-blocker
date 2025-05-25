@@ -8,7 +8,7 @@ Evite abrir múltiplas abas do **TOTVS SmartClient Web** durante depurações no
 
 Durante o desenvolvimento e depuração com o SmartClient Web no **VSCode**, é comum que cada execução do debug abra uma nova aba no navegador. Isso gera múltiplas sessões ativas e pode causar conflitos, lentidão e confusão.
 
-O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ativa apenas a primeira aba aberta do SmartClient Web.
+O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ativa apenas a última aba aberta do SmartClient Web.
 
 ---
 
