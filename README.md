@@ -79,7 +79,7 @@ No `launch.json`, mantenha a configuração padrão para depuração:
 ],
 ```
 
-> ✅ Com o script ativo, mesmo que o VSCode abra novas abas durante o debug, apenas a primeira continuará funcionando.
+> ✅ Com o script ativo, mesmo que o VSCode abra novas abas durante o debug, apenas a última continuará funcionando.
 
 ---
 
