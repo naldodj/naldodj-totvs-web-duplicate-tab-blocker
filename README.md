@@ -1,6 +1,6 @@
 # 🧠 naldodj-totvs-web-duplicate-tab-blocker
 
-Evite abrir múltiplas abas do **TOTVS SmartClient Web** durante depurações no **VSCode**. Este script Tampermonkey detecta abas duplicadas da interface web do Protheus (em `localhost:1234`) e bloqueia a aba mais recente, evitando múltiplas sessões simultâneas — que são abertas automaticamente a cada nova depuração.
+Evite abrir múltiplas abas do **TOTVS SmartClient Web** durante depurações no **VSCode**. Este script Tampermonkey detecta abas duplicadas da interface web do Protheus (em `localhost:1234`) e bloqueia a aba mais antiga, evitando múltiplas sessões simultâneas — que são abertas automaticamente a cada nova depuração.
 
 ---
 
