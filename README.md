@@ -40,7 +40,7 @@ O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ati
 2. Clique no ícone do Tampermonkey > **Create a new script**
 3. Cole o conteúdo do script abaixo:
 
-🛡️ [Clique aqui para instalar o script via Tampermonkey](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/tampermonkey.user.js)
+🛡️ [Clique aqui para obter o script](https://github.com/naldodj/naldodj-totvs-web-duplicate-tab-blocker/blob/main/naldodj-totvs-web-duplicate-tab-blocker.js)
 
 4. Salve o script.
 5. Recarregue a aba do Protheus Web (`localhost:1234/webapp`).
