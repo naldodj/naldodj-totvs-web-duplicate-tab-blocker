@@ -15,8 +15,9 @@ O script atua como um **detector e bloqueador de abas duplicadas**, mantendo ati
 ## 🛠️ Tecnologias Utilizadas
 
 - JavaScript
-- Tampermonkey (extensão para automação no navegador)
-
+- [Tampermonkey](https://www.tampermonkey.net/) (extensão para automação no navegador)
+    - [Tampermonkey Grant Doc.](https://www.tampermonkey.net/documentation.php?locale=en#meta:grant)
+        
 ---
 
 ## 🚀 Como Funciona
