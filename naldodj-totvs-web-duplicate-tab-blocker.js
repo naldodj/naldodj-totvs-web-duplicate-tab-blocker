@@ -5,7 +5,7 @@
 // @description  Detects and warns if a duplicate TOTVS SmartClient HTML tab is opened
 // @author       Naldo
 // @match        *://localhost:1234/webapp/*
-// @grant        none
+// @grant        window.close
 // ==/UserScript==
 
 (function() {
@@ -18,6 +18,8 @@
 
         setTimeout(() => {
             window.location.replace("about:blank");
+            //Gerenciamento de janelas: Permitir
+            window.close();
         }, 10000);
 
         document.body.style.backgroundColor = 'black';
